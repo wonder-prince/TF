@@ -1,0 +1,5 @@
+[console_scripts]
+dy_broadcaster = py_tf.dy_broadcaster:main
+listener = py_tf.listener:main
+sta_broadcaster = py_tf.sta_broadcaster:main
+

@@ -1,0 +1,24 @@
+[1.939s] Invoking command in '/home/interstellar/tf_demo/tf_ws/src/py_tf': PYTHONPATH=/home/interstellar/tf_demo/tf_ws/build/py_tf/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/interstellar/tf_demo/tf_ws/install/py_tf/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/py_tf build --build-base /home/interstellar/tf_demo/tf_ws/build/py_tf/build install --record /home/interstellar/tf_demo/tf_ws/build/py_tf/install.log --single-version-externally-managed install_data
+[2.796s] running egg_info
+[2.797s] writing ../../build/py_tf/py_tf.egg-info/PKG-INFO
+[2.797s] writing dependency_links to ../../build/py_tf/py_tf.egg-info/dependency_links.txt
+[2.797s] writing entry points to ../../build/py_tf/py_tf.egg-info/entry_points.txt
+[2.798s] writing requirements to ../../build/py_tf/py_tf.egg-info/requires.txt
+[2.799s] writing top-level names to ../../build/py_tf/py_tf.egg-info/top_level.txt
+[2.805s] reading manifest file '../../build/py_tf/py_tf.egg-info/SOURCES.txt'
+[2.805s] adding license file 'LICENSE'
+[2.807s] writing manifest file '../../build/py_tf/py_tf.egg-info/SOURCES.txt'
+[2.808s] running build
+[2.808s] running build_py
+[2.809s] running install
+[2.811s] running install_lib
+[2.815s] byte-compiling /home/interstellar/tf_demo/tf_ws/install/py_tf/lib/python3.10/site-packages/py_tf/dy_broadcaster.py to dy_broadcaster.cpython-310.pyc
+[2.817s] running install_data
+[2.817s] running install_egg_info
+[2.827s] removing '/home/interstellar/tf_demo/tf_ws/install/py_tf/lib/python3.10/site-packages/py_tf-0.0.0-py3.10.egg-info' (and everything under it)
+[2.828s] Copying ../../build/py_tf/py_tf.egg-info to /home/interstellar/tf_demo/tf_ws/install/py_tf/lib/python3.10/site-packages/py_tf-0.0.0-py3.10.egg-info
+[2.831s] running install_scripts
+[2.956s] Installing dy_broadcaster script to /home/interstellar/tf_demo/tf_ws/install/py_tf/lib/py_tf
+[2.956s] Installing sta_broadcaster script to /home/interstellar/tf_demo/tf_ws/install/py_tf/lib/py_tf
+[2.957s] writing list of installed files to '/home/interstellar/tf_demo/tf_ws/build/py_tf/install.log'
+[3.006s] Invoked command in '/home/interstellar/tf_demo/tf_ws/src/py_tf' returned '0': PYTHONPATH=/home/interstellar/tf_demo/tf_ws/build/py_tf/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/interstellar/tf_demo/tf_ws/install/py_tf/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/py_tf build --build-base /home/interstellar/tf_demo/tf_ws/build/py_tf/build install --record /home/interstellar/tf_demo/tf_ws/build/py_tf/install.log --single-version-externally-managed install_data
